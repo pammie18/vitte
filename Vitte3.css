@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+	font-family: 'Bad Script', cursive;
+	background-image: url("wallpaper.jpg");
+}
+h1 { 
+	background-color: #FEE1D7; 
+	width: 820px; 
+	font-size: 60px; 
+	color: #072D32; 
+	padding-left: 80px;
+}
+nav { 
+	width: 300px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+h3 {
+	font-size: 30px;
+	background-color: #FEE1D7; 
+	width: 360px;
+	padding-left: 20px;
+}
+h4 { 
+	font-size: 30px;
+	background-color: #FEE1D7;
+	width: 400px; 
+	padding-left: 10px;
+}
+h5 {
+	font-size: 30px;
+	background-color: #FEE1D7;
+	width: 400px; 
+	padding-left: 10px;
+}
+h6 {
+	font-size: 30px;
+	background-color: #FEE1D7;
+	width: 400px; 
+	padding-left: 20px;
+}
+h7 {
+	font-size: 30px;
+	background-color: #FEE1D7;
+	padding-left: 20px; 
+	padding-right: 20px;
+}
+h2 { 
+	background-color: #EA928C;
+	width: 220px;
+	padding-left: 70px;
+	font-size: 45px;
+	}
+a { 
+	background-color:#F0090D; 
+	color: #FFFFFF;
+	font-size: 40px; 
+	padding-left: 20px;
+	padding-right: 20px;
+	border: dashed;
+}
+a:hover { 
+	background-color: #000000; 
+	color: #FFFFFF; 
+	opacity: 0.7; 
+	transition: all 4s; 
+	margin-left: 30px; 
+}

@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+	background-image: url("wallpaper.jpg");
+	font-family: 'Euphoria Script', cursive;
+}
+h1 { 
+	background-color: #FEE1D7;  
+	margin-left: 20px;
+	margin-right: 20px; 
+	padding-left: 185px; 
+	height: 170px;
+	font-size: 140px;
+	color: #004D58; 
+	width: 560px; 
+	} 
+h2 { 
+	background-color: #FEE1D7; 
+	margin-left: auto; 
+	margin-right: auto;
+	padding-left: 105px;
+	height: 160px; 
+	font-size: 140px;
+	color: #004D58; 
+	width: 690px;
+}
+p { 
+	font-family: 'Euphoria Script', cursive;
+	font-size: 100px; 
+	background-color: #01484B; 
+	color: #F59495;
+	padding-left: 60px;
+	width: 720px; 
+}
+a { 
+	background-color:#F0090D;; 
+	color: #FFFFFF;
+	font-size: 40px; 
+	padding-left: 20px;
+	padding-right: 20px;
+}
+a:hover { 
+	background-color: #000000; 
+	color: #FFFFFF; 
+	opacity: 0.7; 
+	transition: all 4s; 
+	margin-left: 30px; 
+}
+nav {
+	width: 200px; 
+	margin-left: auto;
+	margin-right: auto;
+}

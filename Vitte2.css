@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+	background-image: url("wallpaper.jpg");
+	font-family: 'Bad Script', cursive; 
+}
+h1 { 
+	background-color: #FEE1D7; 
+	width: 320px; 
+	font-size: 70px; 
+	color: #072D32; 
+	padding-left: 30px;
+}
+nav { 
+	width: 300px; 
+	margin-left: auto;
+	margin-right: auto; 
+}
+h2 { 
+	background-color: #044952;
+	color: #E79887; 
+	font-size: 30px; 
+	padding-top: 2px;
+	padding-bottom: 1px; 
+	padding-left: 30px; 
+	width: 910px;
+}
+h3 { 
+	background-color: #F1B42B;
+	font-size: 25px;
+	color: #062A2F;
+	height: 220px; 
+	padding-top: 5px;
+	padding-bottom: 55px;
+	padding-left: 30px;
+}
+a { 
+	background-color: #F0090D; 
+	color: #FFFFFF;
+	font-size: 40px; 
+	border: dashed;
+}
+a:hover { 
+	background-color: #AD5300; 
+	color: #FFFFFF; 
+	opacity: 0.7; 
+	transition: all 4s; 
+	margin-left: 30px; 
+}
